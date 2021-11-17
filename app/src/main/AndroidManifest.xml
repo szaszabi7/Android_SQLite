@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Sqlite">
         <activity
+            android:name=".TorlesActivity"
+            android:exported="false" />
+        <activity
             android:name=".RogzitesActivity"
             android:exported="false" />
         <activity
